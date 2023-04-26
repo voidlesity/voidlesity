@@ -25,7 +25,7 @@ You can still nonetheless play it I don't know why you would though.
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/downloads/)
 
 
-I am not using Visual Studio anymore since I just love the UI, customizability, and extensions of VScode.
+I am not using Visual Studio anymore since I just love the UI, customizability, and extensions of VScode way more.
 
 
 ## Personal SWOT Analysis
@@ -58,18 +58,6 @@ I am not using Visual Studio anymore since I just love the UI, customizability, 
 | 📉 Economic Instability | Unstable economic conditions can limit job and income opportunities in some industries, making it challenging to secure stable employment in the future. This can create uncertainty and anxiety about my future prospects. |
 | 👥 Collaboration | Collaborative work and team-based projects may require me to work on my ability to work effectively in group settings. This can be challenging for someone who is introverted and struggles with assertiveness. |
 | 💻 Virtual Communication | Virtual communication may make it harder for me to build relationships and connections with others. This can limit my ability to network and form professional relationships, which can be important for career advancement. |
-
-## 📅 Weekly Time Plan 🕰️
-This <ins>**would**</ins> be a Weekly Time Plan for my working time
-| Day | 🕗 Start | 🕒 End   | ⏸️ Break | ⏱️ Actual | 📅 Planned | ⏰ Difference |
-| --- | ------- | ------- | ------- | --------- | --------- | ------------- |
-| Mon | 8:00 AM | 3:45 PM | 0:30    | 7 hrs 15 mins | 8 hrs  | -40 mins     |
-| Tue | 8:00 AM | 4:45 PM | 0:30    | 8 hrs 15 mins | 8 hrs  | +20 mins     |
-| Wed | 8:00 AM | 4:45 PM | 0:30    | 8 hrs 15 mins | 8 hrs  | +20 mins     |
-| Thu | 8:00 AM | 4:45 PM | 0:30    | 8 hrs 15 mins | 8 hrs  | +20 mins     |
-| Fri | 8:00 AM | 4:00 PM | 0:00    | 8 hrs         | 8 hrs  | ~0 mins      |
-| Total Week |  |         |         | 40 hrs        | 40 hrs | ~0 mins      |
-
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=voidlesity&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&background=343541&border=676981&stroke=747691&ring=9295B7&fire=A0A3C9&currStreakNum=A0A3C9&sideNums=A0A3C9&currStreakLabel=B0B3DD&sideLabels=8E90B2&dates=71738E)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
