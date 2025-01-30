@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am voidlesity, currently 17 years old. I was born on January 29th.
+I am voidlesity, currently 18 years old. I was born on January 29th.
 I am a hobbyist programmer and currently have an apprenticeship as a software engineer.
 
 I'm still learning, so don't expect much or high-quality code here.
