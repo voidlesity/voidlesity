@@ -5,6 +5,8 @@ I am a hobbyist programmer and currently have an apprenticeship as a software en
 
 I'm still learning, so don't expect much or high-quality code here.
 
+Or any code at all since I know work on my [own gitlab server](https://git.voidlesity.dev)
+
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=voidlesity&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D&background=303446&border=E4E2E2&stroke=E4E2E2&ring=81C8BE&fire=81C8BE&currStreakNum=CA9EE6&sideNums=C6D0F5&currStreakLabel=CA9EE6&sideLabels=B5BFE2&dates=B5BFE2)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
